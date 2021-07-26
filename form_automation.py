@@ -30,6 +30,7 @@ driver.find_element_by_id('PASSWORD_FIELD').send_keys("YOUR_PASSWORD")
 
 # click login button
 driver.find_element_by_name("SUBMIT_BUTTON_NAME").click()
+##################################################################################################
 
 # define name of csv file to be processed
 FILENAME = 'YOUR_FILENAME.csv'
