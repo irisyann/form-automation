@@ -1,4 +1,4 @@
-# form-automation-selenium
+# form-automation
 Automated form-filling using Selenium.
 
 #### For processing a large amount of csv data to be filled into a form or multiple forms. 
@@ -11,7 +11,7 @@ Initially I used Mechanize module instead of Selenium, however I realised the we
 Ensure Git and Python 3.9.1 or above are both installed in your computer.
 1. Clone the repository
 
-        git clone https://github.com/peanutooo/form-automation-selenium.git
+        git clone https://github.com/peanutooo/form-automation.git
     
 2. Install the latest stable release of ChromeDriver [here](https://chromedriver.chromium.org/).
 3. Customize the fields in the code as needed.
